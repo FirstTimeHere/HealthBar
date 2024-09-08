@@ -722,7 +722,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 66.36407, y: -19.976057}
+  m_AnchoredPosition: {x: 66.364075, y: -19.976059}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &405060376
@@ -788,10 +788,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3612807e4408e2e4ab9781338be95b0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _takeDamage: {fileID: 412288634}
-  _takeHeal: {fileID: 399940182}
   _health: {fileID: 476495570}
   _drawSelect: 0
+  _sliderSpeedChange: 0
 --- !u!1 &412288632
 GameObject:
   m_ObjectHideFlags: 0
@@ -1435,7 +1434,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 66.364006, y: -100.97606}
+  m_AnchoredPosition: {x: 66.36401, y: -100.97606}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1978944702
@@ -1501,10 +1500,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3612807e4408e2e4ab9781338be95b0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _takeDamage: {fileID: 412288634}
-  _takeHeal: {fileID: 399940182}
   _health: {fileID: 476495570}
   _drawSelect: 1
+  _sliderSpeedChange: 2500
 --- !u!1 &2030912989
 GameObject:
   m_ObjectHideFlags: 0

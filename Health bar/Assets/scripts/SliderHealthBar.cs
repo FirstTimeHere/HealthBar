@@ -6,6 +6,7 @@ public class SliderHealthBar : MonoBehaviour
 {
     [SerializeField] private Health _health;
     [SerializeField] private DrawSliderSelect _drawSelect;
+    [SerializeField] private float _sliderSpeedChange;
 
     private Slider _slider;
 
@@ -33,7 +34,7 @@ public class SliderHealthBar : MonoBehaviour
         }
         else
         {
-            _slider.value = Mathf.MoveTowards(_slider.value, _health.HealthPoint, Time.deltaTime * 1500f);
+            _slider.value = Mathf.MoveTowards(_slider.value, _health.HealthPoint, Time.deltaTime * _sliderSpeedChange);
         }
     }
 }
