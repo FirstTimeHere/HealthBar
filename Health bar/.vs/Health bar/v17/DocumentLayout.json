@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|e:\\github\\health bar\\healthbar\\health bar\\assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|E:\\GitHub\\Health bar\\HealthBar\\Health bar\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|E:\\GitHub\\Health bar\\HealthBar\\Health bar\\assets\\scripts\\buttonplayerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonplayerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|E:\\GitHub\\Health bar\\HealthBar\\Health bar\\assets\\scripts\\drawsliderselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drawsliderselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderHealthBar.cs",
+              "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\SliderHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SliderHealthBar.cs",
+              "ToolTip": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\SliderHealthBar.cs",
+              "RelativeToolTip": "Assets\\scripts\\SliderHealthBar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:13:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawSliderSelect.cs",
+              "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\DrawSliderSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DrawSliderSelect.cs",
+              "ToolTip": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\DrawSliderSelect.cs",
+              "RelativeToolTip": "Assets\\scripts\\DrawSliderSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:12:47.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonPlayerInteraction.cs",
+              "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\ButtonPlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ButtonPlayerInteraction.cs",
+              "ToolTip": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\ButtonPlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\scripts\\ButtonPlayerInteraction.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA9wAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:23:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Health.cs",
+              "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Health.cs",
+              "ToolTip": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\scripts\\Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:32:06.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
