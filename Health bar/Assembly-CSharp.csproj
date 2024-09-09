@@ -62,8 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\ButtonPlayerInteraction.cs" />
     <Compile Include="Assets\scripts\SliderHealthBar.cs" />
-    <Compile Include="Assets\scripts\DrawSliderSelect.cs" />
     <Compile Include="Assets\scripts\Health.cs" />
+    <Compile Include="Assets\scripts\SliderHealthBarSmoothy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|e:\\github\\health bar\\healthbar\\health bar\\assets\\scripts\\sliderhealthbarsmoothy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sliderhealthbarsmoothy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|e:\\github\\health bar\\healthbar\\health bar\\assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonplayerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|E:\\GitHub\\Health bar\\HealthBar\\Health bar\\assets\\scripts\\drawsliderselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drawsliderselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|E:\\GitHub\\Health bar\\HealthBar\\Health bar\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub\\Health bar\\HealthBar\\Health bar\\assets\\scripts\\drawsliderselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\drawsliderselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SliderHealthBarSmoothy.cs",
+              "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\SliderHealthBarSmoothy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SliderHealthBarSmoothy.cs",
+              "ToolTip": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\SliderHealthBarSmoothy.cs",
+              "RelativeToolTip": "Assets\\scripts\\SliderHealthBarSmoothy.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:25:58.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SliderHealthBar.cs",
               "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\SliderHealthBar.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\SliderHealthBar.cs",
               "ToolTip": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\SliderHealthBar.cs",
               "RelativeToolTip": "Assets\\scripts\\SliderHealthBar.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowB4AAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T16:13:48.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DrawSliderSelect.cs",
               "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\DrawSliderSelect.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\DrawSliderSelect.cs",
@@ -51,18 +68,17 @@
               "RelativeToolTip": "Assets\\scripts\\DrawSliderSelect.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T16:12:47.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T16:12:47.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ButtonPlayerInteraction.cs",
               "DocumentMoniker": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\ButtonPlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ButtonPlayerInteraction.cs",
               "ToolTip": "E:\\GitHub\\Health bar\\HealthBar\\Health bar\\Assets\\scripts\\ButtonPlayerInteraction.cs",
               "RelativeToolTip": "Assets\\scripts\\ButtonPlayerInteraction.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwAIAAAAVAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T15:23:46.587Z",
               "EditorCaption": ""

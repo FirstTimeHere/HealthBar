@@ -788,9 +788,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3612807e4408e2e4ab9781338be95b0b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _takeDamage: {fileID: 412288634}
+  _takeHeal: {fileID: 399940182}
   _health: {fileID: 476495570}
-  _drawSelect: 0
-  _sliderSpeedChange: 0
 --- !u!1 &412288632
 GameObject:
   m_ObjectHideFlags: 0
@@ -1497,12 +1497,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1978944700}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3612807e4408e2e4ab9781338be95b0b, type: 3}
+  m_Script: {fileID: 11500000, guid: e351b2c74aad833438aee9de7a26c7e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _takeDamage: {fileID: 412288634}
+  _takeHeal: {fileID: 399940182}
   _health: {fileID: 476495570}
-  _drawSelect: 1
-  _sliderSpeedChange: 2500
+  _sliderSpeedChange: 2000
 --- !u!1 &2030912989
 GameObject:
   m_ObjectHideFlags: 0

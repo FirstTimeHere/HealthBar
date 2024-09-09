@@ -4,9 +4,10 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Slider))]
 public class SliderHealthBar : MonoBehaviour
 {
+    [SerializeField] private Button _takeDamage;
+    [SerializeField] private Button _takeHeal;
+
     [SerializeField] private Health _health;
-    [SerializeField] private DrawSliderSelect _drawSelect;
-    [SerializeField] private float _sliderSpeedChange;
 
     private Slider _slider;
 
@@ -15,26 +16,26 @@ public class SliderHealthBar : MonoBehaviour
         _slider = GetComponent<Slider>();
     }
 
+    protected void OnEnable()
+    {
+        _takeDamage.onClick.AddListener(ChangeSlider);
+        _takeHeal.onClick.AddListener(ChangeSlider);
+    }
+
+    protected void OnDisable()
+    {
+        _takeDamage.onClick.RemoveListener(ChangeSlider);
+        _takeHeal.onClick.RemoveListener(ChangeSlider);
+    }
+
     private void Start()
     {
         _slider.maxValue = _health.MaxHealthPoint;
         _slider.value = _health.HealthPoint;
     }
 
-    private void Update()
-    {
-        ChangeSlider();
-    }
-
     private void ChangeSlider()
     {
-        if (_drawSelect == DrawSliderSelect.Default)
-        {
-            _slider.value = _health.HealthPoint;
-        }
-        else
-        {
-            _slider.value = Mathf.MoveTowards(_slider.value, _health.HealthPoint, Time.deltaTime * _sliderSpeedChange);
-        }
+        _slider.value = _health.HealthPoint;
     }
 }
